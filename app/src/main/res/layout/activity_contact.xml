@@ -1,0 +1,492 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#fff"
+    xmlns:card_view="http://schemas.android.com/apk/res-auto"
+    card_view:cardElevation="10dp"
+    card_view:cardCornerRadius="2dp"
+    android:orientation="vertical"
+    tools:context=".ContactActivity">
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        >
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            >
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Diet4U"
+                android:layout_marginTop="20dp"
+                android:textColor="#761313"
+                android:textStyle="bold"
+                android:textAlignment="center"
+                android:textSize="25sp"
+
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Version 1.1"
+                android:textAlignment="center"
+                android:textSize="18sp"
+                android:textStyle="normal"
+                android:textColor="#bc716e6e"
+                />
+
+            <RelativeLayout
+                android:id="@+id/card_container"
+                android:layout_width="wrap_content"
+                android:layout_marginTop="20dp"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="24dp"
+                android:layout_marginRight="24dp"
+                android:layout_centerInParent="true">
+
+            <android.support.v7.widget.CardView
+                android:id="@+id/card_login"
+                android:layout_width="match_parent"
+               android:layout_marginLeft="20dp"
+                android:layout_marginRight="20dp"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="50dp"
+                android:foreground="?android:attr/selectableItemBackground"
+                card_view:cardBackgroundColor="#e8641d"
+                card_view:cardCornerRadius="4dp"
+                card_view:cardElevation="0dp"
+                card_view:cardUseCompatPadding="false" >
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:layout_marginTop="50dp"
+            android:padding="24dp">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="If you are really concious about your health and wants to live a healthy and happy life then this app is perfect for you. This app provide a completely diet plan to keep you healthy and fit ."
+                android:textSize="17sp"
+                android:padding="10dp"
+                android:paddingLeft="10dp"
+                android:paddingBottom="25dp"
+                android:textFontWeight="lighter"
+                android:textColor="#fff"
+                android:fontFamily="sans-serif-condensed"
+                android:layout_marginBottom="15dp"
+                />
+        </LinearLayout>
+            </android.support.v7.widget.CardView>
+
+                <de.hdodenhof.circleimageview.CircleImageView
+                    xmlns:app="http://schemas.android.com/apk/res-auto"
+                    android:layout_width="120dp"
+                    android:layout_height="120dp"
+                    android:src="@drawable/dietforyou"
+
+                    android:layout_centerHorizontal="true" />
+
+            </RelativeLayout>
+            <RelativeLayout
+
+                android:layout_width="wrap_content"
+                android:layout_marginTop="20dp"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="24dp"
+                android:layout_marginRight="24dp"
+                android:layout_centerInParent="true">
+
+                <android.support.v7.widget.CardView
+
+                    android:layout_width="match_parent"
+                    android:layout_marginLeft="20dp"
+                    android:layout_marginRight="20dp"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="50dp"
+                    android:foreground="?android:attr/selectableItemBackground"
+                    card_view:cardBackgroundColor="#e8641d"
+                    card_view:cardCornerRadius="4dp"
+                    card_view:cardElevation="0dp"
+                    card_view:cardUseCompatPadding="false" >
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:orientation="vertical"
+                        android:layout_marginTop="50dp"
+                        android:padding="24dp">
+                        <TextView
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:text="Developed By:"
+                            android:textColor="#fff"
+                            android:layout_marginTop="10dp"
+                            android:textAlignment="center"
+                            android:textSize="17sp"
+                            android:textStyle="bold"
+                            android:fontFamily="sans-serif-condensed"
+
+                            />
+
+                        <TextView
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:text="TheCodingShef"
+                            android:fontFamily="sans-serif-condensed"
+                            android:textSize="20sp"
+                            android:textAlignment="center"
+                            android:textColor="#bcf6f4f4"
+                            />
+                        <TextView
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:text="It is a platform for tech lovers. Here you can easily familier with new upcoming and treding technologies. It helps students aswell as professionals to learn coding, Those who fear to code."
+                            android:textSize="17sp"
+                            android:padding="10dp"
+                            android:paddingLeft="10dp"
+                            android:paddingBottom="25dp"
+                            android:textFontWeight="lighter"
+                            android:textColor="#fff"
+                            android:fontFamily="sans-serif-condensed"
+                            android:layout_marginBottom="15dp"
+                            />
+                        <RelativeLayout
+                            android:layout_width="fill_parent"
+                            android:layout_height="wrap_content"
+                            android:background="#b8fefefe"
+                            android:layout_marginTop="20dp"
+                            android:layout_gravity="center"
+                            >
+                            <TextView
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:text="Contact details"
+                                android:padding="10dp"
+                                android:textSize="20sp"
+                                android:textColor="#a9ff3030"
+                                android:layout_centerInParent="true"
+                                android:layout_gravity="center_vertical"
+
+
+                                />
+                        </RelativeLayout>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp"
+                android:padding="5dp"
+                android:fontFamily="sans-serif-condensed"
+                android:drawableLeft="@drawable/mailicon"
+                android:layout_marginBottom="10dp"
+                android:text="query@thecodingshef.com"
+                android:gravity="center"
+                android:textColor="#dffffcfc"
+                android:textFontWeight="lighter"
+                android:textSize="16sp"
+                />
+                    </LinearLayout>
+                </android.support.v7.widget.CardView>
+
+                <de.hdodenhof.circleimageview.CircleImageView
+                    xmlns:app="http://schemas.android.com/apk/res-auto"
+                    android:layout_width="120dp"
+                    android:layout_height="120dp"
+                    android:src="@drawable/logo1"
+
+                    android:layout_centerHorizontal="true" />
+
+            </RelativeLayout>
+            <RelativeLayout
+                android:id="@+id/card_container1"
+                android:layout_width="wrap_content"
+                android:layout_marginTop="20dp"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="24dp"
+                android:layout_marginRight="24dp"
+                android:layout_centerInParent="true">
+
+                <android.support.v7.widget.CardView
+                    android:layout_width="match_parent"
+                    android:layout_marginLeft="20dp"
+                    android:layout_marginRight="20dp"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="50dp"
+                    android:foreground="?android:attr/selectableItemBackground"
+                    card_view:cardBackgroundColor="#e8641d"
+                    card_view:cardCornerRadius="4dp"
+                    card_view:cardElevation="0dp"
+                    card_view:cardUseCompatPadding="false" >
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:orientation="vertical"
+                        android:layout_marginTop="50dp"
+                        android:padding="24dp">
+
+                        <TextView
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:text="@string/about2"
+                            android:textSize="17sp"
+                            android:textAlignment="center"
+                            android:padding="10dp"
+                            android:paddingLeft="10dp"
+                            android:paddingBottom="25dp"
+                            android:textFontWeight="lighter"
+                            android:textColor="#fff"
+                            android:fontFamily="sans-serif-condensed"
+                            android:layout_marginBottom="15dp"
+                            />
+                        <RelativeLayout
+                            android:layout_width="match_parent"
+                            android:layout_marginTop="10dp"
+                            android:layout_marginBottom="30dp"
+                            android:layout_height="wrap_content"
+                            >
+                            <ImageView
+                                android:layout_width="30dp"
+                                android:layout_height="30dp"
+                                android:id="@+id/facebook11"
+                                android:src="@drawable/face"
+                                android:layout_marginLeft="50dp"
+
+
+                                />
+                            <ImageView
+                                android:layout_width="30dp"
+                                android:layout_height="30dp"
+                                android:id="@+id/twitter11"
+                                android:layout_toRightOf="@+id/facebook11"
+                                android:src="@drawable/twit"
+                                android:layout_marginLeft="20dp"
+
+
+                                />
+                            <ImageView
+                                android:layout_width="30dp"
+                                android:layout_height="30dp"
+                                android:id="@+id/linked1"
+                                android:layout_toRightOf="@+id/twitter11"
+                                android:src="@drawable/in"
+                                android:layout_marginLeft="20dp"
+                                android:layout_marginRight="50dp"
+                                />
+
+
+                        </RelativeLayout>
+                    </LinearLayout>
+                </android.support.v7.widget.CardView>
+
+                <de.hdodenhof.circleimageview.CircleImageView
+                    xmlns:app="http://schemas.android.com/apk/res-auto"
+                    android:layout_width="120dp"
+                    android:layout_height="120dp"
+                    android:src="@drawable/azzu"
+
+                    android:layout_centerHorizontal="true" />
+
+            </RelativeLayout>
+
+            <RelativeLayout
+
+                android:layout_width="wrap_content"
+                android:layout_marginTop="20dp"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="24dp"
+                android:layout_marginRight="24dp"
+                android:layout_centerInParent="true">
+
+                <android.support.v7.widget.CardView
+                    android:layout_width="match_parent"
+                    android:layout_marginLeft="20dp"
+                    android:layout_marginRight="20dp"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="50dp"
+                    android:foreground="?android:attr/selectableItemBackground"
+                    card_view:cardBackgroundColor="#e8641d"
+                    card_view:cardCornerRadius="4dp"
+                    card_view:cardElevation="0dp"
+                    card_view:cardUseCompatPadding="false" >
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:orientation="vertical"
+                        android:layout_marginTop="50dp"
+                        android:padding="24dp">
+
+                        <TextView
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:text="@string/about1"
+                            android:textSize="17sp"
+                            android:textAlignment="center"
+                            android:padding="10dp"
+                            android:paddingLeft="10dp"
+                            android:paddingBottom="25dp"
+                            android:textFontWeight="lighter"
+                            android:textColor="#fff"
+                            android:fontFamily="sans-serif-condensed"
+                            android:layout_marginBottom="15dp"
+                            />
+                        <RelativeLayout
+                            android:layout_width="match_parent"
+                            android:layout_marginTop="10dp"
+                            android:layout_marginBottom="30dp"
+                            android:layout_height="wrap_content"
+                            >
+                            <ImageView
+                                android:layout_width="30dp"
+                                android:layout_height="30dp"
+                                android:id="@+id/facebook1"
+                                android:src="@drawable/face"
+                                android:layout_marginLeft="50dp"
+
+
+                                />
+                            <ImageView
+                                android:layout_width="30dp"
+                                android:layout_height="30dp"
+                                android:id="@+id/twitter1"
+                                android:layout_toRightOf="@+id/facebook1"
+                                android:src="@drawable/twit"
+                                android:layout_marginLeft="20dp"
+
+
+                                />
+                            <ImageView
+                                android:layout_width="30dp"
+                                android:layout_height="30dp"
+                                android:id="@+id/linked"
+                                android:layout_toRightOf="@+id/twitter1"
+                                android:src="@drawable/in"
+                                android:layout_marginLeft="20dp"
+                                android:layout_marginRight="50dp"
+                                />
+
+
+                        </RelativeLayout>
+                    </LinearLayout>
+                </android.support.v7.widget.CardView>
+
+                <de.hdodenhof.circleimageview.CircleImageView
+                    xmlns:app="http://schemas.android.com/apk/res-auto"
+                    android:layout_width="120dp"
+                    android:layout_height="120dp"
+                    android:src="@drawable/aarjoo"
+
+                    android:layout_centerHorizontal="true" />
+
+            </RelativeLayout>
+
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="#d4222121"
+    android:orientation="vertical"
+    android:layout_marginTop="40dp"
+    >
+    <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Follow us"
+                android:textColor="#e6fffdfd"
+                android:padding="10dp"
+                android:textStyle="normal"
+                android:textAlignment="center"
+                android:textSize="20sp"
+                android:fontFamily="sans-serif-condensed"
+                />
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_marginTop="10dp"
+                android:layout_marginBottom="30dp"
+                android:layout_height="wrap_content"
+                >
+
+                <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/insta"
+                    android:src="@drawable/insta"
+                    android:layout_marginLeft="50dp"
+
+
+                />
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/youtube"
+                    android:src="@drawable/youtube"
+
+                    android:layout_toRightOf="@+id/insta"
+                    android:layout_marginLeft="20dp"
+                    />
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/facebook"
+                    android:src="@drawable/facebook"
+                    android:layout_toRightOf="@+id/youtube"
+                    android:layout_marginLeft="20dp"
+
+
+                    />
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/twitter"
+                    android:layout_toRightOf="@+id/facebook"
+                    android:src="@drawable/twitter"
+                    android:layout_marginLeft="20dp"
+
+
+                    />
+
+            </RelativeLayout>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Visit us"
+        android:textColor="#e6fffdfd"
+        android:padding="10dp"
+        android:textStyle="normal"
+        android:textAlignment="center"
+        android:textSize="20sp"
+        android:fontFamily="sans-serif-condensed"
+        />
+    <de.hdodenhof.circleimageview.CircleImageView
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:src="@drawable/logo1"
+        app:civ_border_width="2dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="10dp"
+        app:civ_border_color="#b1f1f2f2"
+        android:layout_centerHorizontal="true" />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="http://www.TheCodingShef.com"
+        android:textColor="#e6fffdfd"
+        android:padding="10dp"
+       android:layout_marginBottom="16dp"
+        android:textStyle="normal"
+        android:textAlignment="center"
+        android:textSize="20sp"
+        android:fontFamily="sans-serif-condensed"
+        />
+
+</LinearLayout>
+
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>
+
+

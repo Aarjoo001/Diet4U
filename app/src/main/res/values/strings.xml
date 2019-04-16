@@ -1,0 +1,174 @@
+<resources>
+    <string name="app_name">Dietforu</string>
+    <string name="title_activity_weight_gain">WeightGainActivity</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <string name="tab_text_3">Tab 3</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="title_activity_main3">Main3Activity</string>
+    <string name="title_home">Home</string>
+
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_activity_bmi">BMIActivity</string>
+
+    <string name="title_activity_welcome">Home Screen</string>
+    <string name="next">NEXT</string>
+    <string name="skip1">SKIP</string>
+    <string name="start">GOT IT</string>
+
+    <string name="slide_1_title">Hey Welcome to Diet4U!</string>
+    <string name="slide_1_desc">Powered By TheCodingShef!</string>
+
+    <string name="slide_2_title">Manage your Diet</string>
+    <string name="slide_2_desc">Easy way to mantain your Diet!</string>
+
+    <string name="slide_3_title">Exercise</string>
+    <string name="slide_3_desc">Best exercise suggestions for you to make you fit!</string>
+
+    <string name="slide_4_title">BMI calculator</string>
+    <string name="slide_4_desc">Calculate your BMI easily!</string>
+
+
+    <string name="one">
+        1.<b>Fruits</b> – Banana\n2.<b>Vegetables</b> - Rajma,paneer\n3.<b>Protein</b> – Avoid eating any protein source such as meat, eggs, fish, beans, lentils, and mushrooms.\n4.<b>Fats and Oils</b> – Lard, butter, margarine, and safflower oil.\n5.<b>Carbs</b> – Avoid all carb rich foods, including brown rice.
+    </string>
+    <string name="two">
+        <b>1.</b> It is advisable to eat <b>one apple</b> and drink a of glass of water for breakfast.\n<b>2.</b> <b>8 to 12</b> glasses of water.
+    </string>
+    <string name="three">
+        <b>1.</b> Eating baked potatoes will help you go through this hard phase. you can also switch to <b>cabbage soup or tomato soup</b> and have it for lunch or dinner.\n<b>2.</b> Roasted chana is a <b>low calorie snack</b> that you can include in your weight loss diet. It is a perfect teatime snack and can be savoured in the form of a chaat as well. <b>Roasted chana</b> not only helps in <b>managing weight</b> but is also loaded with health benefiting properties.\n<b>3.</b> <b>8 to 12</b> glasses of water.
+    </string>
+    <string name="four">
+        1.<b>Fruits</b> – Avoid all fruits on this day.\n2.<b>Vegetables</b> - Rajma,paneer\n3.<b>Protein</b> – Avoid eating any protein source such as meat, eggs, fish, beans, lentils, and mushrooms.\n4.<b>Fats and Oils</b> – Lard, butter, margarine, and safflower oil.\n5.<b>Carbs</b> – Avoid all carb rich foods, including brown rice.
+    </string>
+    <string name="wed">
+        <b>Vegetables</b> – Avoid all dals, rajma, panner etc on this day.\n<b>Fruits</b>– Avoid eating bananas.\n<b>Protein</b> – Avoid eating any protein source such as meat, eggs, fish, beans, lentils, and mushrooms.\n<b>Fats and Oils</b>– Lard, butter, margarine, and safflower oil.\n<b>Carbs</b>– Avoid all carb-rich foods, including brown rice.\n<b>Dairy</b> – Full fat milk, full fat yogurt, frozen yogurt, ice cream, and cheese.
+    </string>
+    <string name="wedtips">
+    <b>1.</b> You can include <b>fruits</b> for breakfast and finish it off with <b>fresh vegetables</b> in the evening. \n<b>2.</b> <b>8 to 12</b> glasses of water
+</string>
+    <string name="thursday">
+        <b>Vegetables</b> – Potato and sweet potato.\n<b>Fruits</b> – Avoid eating all fruits except banana.\n<b>Protein</b> – Avoid eating any protein source such as meat, eggs, fish, beans, lentils, and mushrooms.\n<b>Fats and Oils</b> – Lard, butter, margarine, and safflower oil.\n<b>Carbs</b> – Avoid all carb-rich foods, including brown rice.\n<b>Dairy</b> – Full fat milk, full fat yogurt, frozen yogurt, ice cream, and cheese.
+    </string>
+    <string name="thurtips">
+        <b>1.</b>Bananas provide <b>instant energy</b>. They are rich in pectin, which aids digestion. They are also high in <b>potassium</b> and low in salt\n<b>2.</b>Milk is a great source of calcium and potassium.\n<b>3.</b><b>8 to 12</b> glasses of water.
+    </string>
+    <string name="friday">
+        <b>Vegetables</b>– Potato and sweet potato.\n<b>Fruits</b>– Banana.\n<b>Protein</b>– Beef, pork, and turkey.\n<b>Fats and Oils</b> – Lard, butter, margarine, and safflower oil.\n<b>Carbs</b> – White rice, bread, and processed foods.\n<b>Dairy</b> – Full fat milk, full fat yogurt, frozen yogurt, ice cream, and cheese.
+    </string>
+    <string name="fridaytips">
+        <b>1.</b>The benefits of eating oatmeal include lowering your risk of heart disease and colorectal cancer. Whole grains like oats can also help reduce blood pressure and aid in digestion.\n<b>3.</b><b>8 to 12</b> glasses of water.
+    </string>
+    <string name="saturday">
+        <b>Vegetables</b> – Sweet potato and potato.\n<b>Fruits</b> – Try to avoid fruits, especially mango, banana, and cherry.\n<b>protein</b> – Beef, pork, and turkey.\n<b>Fats and Oils</b> – Lard, butter, margarine, and safflower oil.\n<b>Carbs</b> – White rice, bread, and processed foods.\n<b>Dairy</b> – Full fat milk, full fat yogurt, frozen yogurt, ice cream, and cheese.
+    </string>
+    <string name="sattips">
+        <b>1.</b>Vegetables have to be <b>boiled</b>, not <b>fried</b>, and salads shouldn’t have any heavy dressings.\n<b>3.</b><b>8 to 12</b> glasses of water.
+    </string>
+    <string name="sunday">
+        <b>Vegetables</b> – Potato and sweet potato.\n<b>Fruits</b> – Banana, cherry, mango, and pear.\n<b>Protein</b> – Avoid any kind of meat such as beef, turkey, chicken, pork, fish and lentils, beans, soy, and mushrooms.\n<b>Fats and Oils</b> – Lard, butter, margarine, and safflower oil.\n<b>Carbs</b> – White rice, bread, and processed foods.\n<b>Dairy</b> – Full fat milk, full fat yogurt, frozen yogurt, ice cream, and cheese.
+    </string>
+    <string name="suntips">
+        <b>1.</b>Include vegetables like cabbage or broccoli to go with the brown rice.\n<b>2.</b>Fruit juices will flush out the <b>toxins</b> from the system, and the other food items will provide you with the <b>much-needed energy</b>.\n<b>3.</b><b>8 to 12</b> glasses of water.
+    </string>
+    <string name="mondaygain">
+        <b>1.</b>Do not resort to eating highly processed <b>junk foods</b> to get your extra calories. \n<b>2.</b><b> 8 to 12</b> glass of water.
+    </string>
+
+    <!-- TODO: Re
+    move or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="diabetes">
+    <b>Diabetes</b> is a chronic disease which is related to <b>metabolic</b>,in which oxidation of <b>carbohydrates</b> and glucose is not fully detected. it is a is a chronic metabolic disorder in which the body fails to convert sugars, starches and other foods into energy.
+</string>
+    <string name="diasym">
+        <b> 1. </b> Extreme thirst\n<b> 2. </b> Extreme hunger\n<b> 3. </b> blurred vision\n<b> 4. </b> unexpected weight loss\n<b> 5. </b> Extreme tiredness\n<b> 6. </b> numbness or tingling in the feet or hands\n<b> 7. </b> Dry, itchy skin
+
+    </string>
+    <string name="meal">
+        One teaspoon of fenugreek (methi)\n powder + water.
+    </string>
+    <string name="diaavoid">
+        <b>1.</b> Sugar\n<b>2.</b> Salt\n<b>3.</b> Fat\n<b>4.</b> Whole milk  products\n<b>5.</b> Tea and coffee\n<b>6.</b> White flour and its products\n<b>7.</b> Avoid white rice, potatoes, carrots, breads and banana because they increase the blood-sugar levels.
+
+    </string>
+    <string name="tipsdia">
+        <b>1.</b><b>35-40</b> minute faster walk every day.\n<b>2.</b>Diabetic person should eat food <b>between times intervals</b> like take breakfast in morning, lunch, some snakes and dinner.\n<b>3/</b>Avoid <b>oily</b> food.\n<b>4.</b>Diabetic person should eat food <b>slowly</b>.
+
+</string>
+    <string name="normaltips">
+        <b>1.</b>Eat lots of <b>fruit and veg</b>.\n<b>2.</b>Drink <b>8 to 12</b> glass of water.
+    </string>
+    <string name="jump">
+        <b>1.</b>Begin by standing with your legs straight and your arms to your sides.\n<b>2/</b>Jump up and spread your feet beyond hip-width apart while bringing your arms above your head, nearly touching.\n<b>3.</b>Jump again, lowering your arms and bringing your legs together. Return to your starting position.
+
+    </string>
+    <string name="skip">
+        <b>1.</b>Stand with your back  straight.\n<b>2.</b>Keep your feet together.\n<b>3.</b>Now jump on the ground a few inches letting the rope pass under your feet and bring it back up.\n<b>4.</b>Repeat this step for 10 to 15 minutes.
+    </string>
+    <string name="cross">
+        <b>1.</b>Step on the peddles and get hold of the handlebars firmly.\n<b>2.</b>Now move your feet along the peddles as if you are stepping forward, it seems just like the walking motion.\n<b>3.</b>With every step, make sure you move handlebars also, one towards your chest and alternating the movement.
+    </string>
+    <string name="grid">
+        <b>1.</b>First of all sit with your legs straight in front of you.\n<b>2.</b>Bring your arms forward and join your hands.\n<b>3.</b>Now start making a big clockwise circle like you are grinding milk.\n<b>4.</b>Do 10-15 reps clockwise and then anti-clockwise.
+    </string>
+    <string name="fast">
+        <b>1.</b>Stand with feet apart and bend slightly forward.\n<b>2.</b>Join your hands in front of you.\n<b>3.</b>Now start moving your feet as fast as you can in a wide-leg jogging.
+    </string>
+    <string name="push">
+        <b>1.</b>Begin with a high plank position with your hands firmly placed on the ground, right beneath your shoulders.\n<b>2.</b>Now keeping a neutral spine, lower down your body until your chest is just above the floor.\n<b>3.</b>Push yourself back up to complete one rep.
+    </string>
+    <string name="squat">
+        <b>1.</b>Stand with your legs shoulder width apart. Keep your hands clasped together in front of your chest.\n<b>2.</b>Begin the downward motion by flexing your knees and hips. Sit back with your hips and keep an upright torso.\n<b>3.</b>Go full depth and return to starting position to finish one rep.
+    </string>
+    <string name="lift">
+        <b>1.</b>Stand with your mid-foot under the barbell.\n<b>2.</b>Bend over and grab the bar with a shoulder-width grip.\n<b>3.</b>Bend your knees until your shins touch the bar.\n<b>4.</b>Lift your chest up and straighten your lower back.\n<b>5.</b>Take a big breath, hold it, and stand up with the weight
+    </string>
+    <string name="bench">
+        <b>1.</b>Lie flat on your back on a bench.\n<b>2.</b>Grip the bar with hands just wider than shoulder-width apart, so when you’re at the bottom of your move your hands are directly above your elbows. This allows for maximum force generation.\n<b>3.</b>Bring the bar slowly down to your chest as you breathe in.\n<b>4.</b>Push up as you breathe out, gripping the bar hard and watching a spot on the ceiling rather than the bar, so you can ensure it travels the same path every time.
+    </string>
+    <string name="pull">
+
+        <b>1.</b>Grab a pull-up bar with your palms facing outwards.\n<b>2.</b>Pull yourself up slightly over the bar by keeping a slight arch in your back and torso puffed out.\n<b>3.</b>Slowly lower down yourself until your arms are fully extended.\n<b>4.</b>That’s rep one, Do as many strict reps you can do.
+    </string>
+    <string name="vrick">
+        <b>1.</b> Put your right leg high up on your left thigh.\n<b>2.</b> After you maintain a steady balance, inhale slowly and join your palms together above your head.\n<b>3.</b> Make sure that your spine and left leg are straight.\n<b>4.</b>As you exhale, bring your hands down and put your right leg on the ground.
+
+    </string>
+    <string name="panch">
+    <b>1.</b>Sit up with your back straight and toes pointed outwards.\n<b>2.</b> Stretch your hands upwards as you breathe in, while exhaling, slowly bring your hands down and try to touch your toes.\n<b>3.</b> Place your hands wherever they reach and try to stay in the position for as long as comfortable.\n<b>4.</b> Do not force yourself. Slowly release your hold and stretch your spine.\n<b>5.</b>Repeat another 5 times with the same breathing process.
+</string>
+    <string name="uth">
+
+        <b>1.</b>Stand on the mat straight and in relaxed position.\n<b>2.</b>Bring your legs together keeping just a few inches distance from one another.\n<b>3.</b>Now bend forward and touch your ankles with your hand. Keep forehead positioned in front of your knees.\n<b>4.</b>If you are a beginner, Do not force yourself. Just bend your knees a bit and touch your ankles.
+    </string>
+    <string name="bal">
+
+        <b>1.</b>Sit on the floor with bent knees. They should be separated from one another. Your hips should be resting on your heels.\n<b>2.</b>Place your hands on your thighs.\n<b>3.</b>Now start bending forward such that the upper torso is on your thighs.\n<b>4.</b>Bend further down to make your forehead touch the ground.\n<b>5.</b>Bring your hands back and let them lie freely on the ground beside your feet with palms facing the ceiling or you may also hold your heels with your hands.
+    </string>
+    <string name="sukh">
+
+        <b>1.</b>Start with sitting cross-legged, i.e. with left leg on the right thigh and right leg on the left thigh.\n<b>2.</b> Keep your spine straight and put your hands on your knees, you may use a mudra if you like (join the tip of your index finger with the tip of your thumb).The spine remains erect and the breathing is normal.
+    </string>
+    <string name="dand">
+        <b>1.</b>First stand straight with your ankles and hang your arms behind your torso.\n<b>2.</b> Balance your body weight on your body after raising your ankles and landing them on the floor.\n<b>3.</b> As you inhale, lift your ankles and release your shoulder blades away from your head.
+
+    </string>
+    <string name="anulom">
+        <b>1.</b>Always sit in Sukhasana with your hands resting sideways on the knees.\n<b>2.</b>You can also sit in Padmasana.\n<b>3.</b>If you begin from the left then close the right nostril with your right thumb and inhale slowly to fill up your lungs.\n<b>4.</b>Now, exhale slowly from the right nostril.\n<b>5.</b>It is essential to focus on your breath and practice the technique slowly.\n<b>6.</b>Repeat 60 times or for 5 minutes. You can do this any time of the day.\n<b>7.</b>Ensure that your back is straight and shoulders relaxed while you perform the pranayam.
+
+    </string>
+    <string name="loss">
+    Exercise for\nweight loss
+</string>
+    <string name="about1">
+        <b>Aarjoo panwar</b>\nCo-founder\n\n<b>skills:</b>\nc, java, html, css, android, java script, jsp
+
+    </string>
+    <string name="about2">
+        <b>Azeem siddiqui</b>\nFounder\n\n<b>skills:</b>\nc, java, html, css, android, wordpress, joomla, java script
+
+    </string>
+</resources>
